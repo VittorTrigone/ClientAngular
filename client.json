@@ -1,0 +1,19 @@
+{
+  "clients": [
+    {
+      "id": 1,
+      "name": "Víttor Trigone Dias",
+      "email": "Vittor.Trigone.Dias@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Wallace Valdivino da Silva",
+      "email": "Wallace.Ancara@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Vinicíus Aparecido Brito",
+      "email": "Vinicius.Brito@gmail.com"
+    }
+  ]
+}
